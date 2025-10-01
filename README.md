@@ -59,9 +59,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ```
 
----
 
-If you want, I can also **enhance it with badges, GIFs of model training, and a project flow diagram** to make it look really professional for GitHub.  
-
-Do you want me to do that?
-```
